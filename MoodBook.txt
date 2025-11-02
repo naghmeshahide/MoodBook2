@@ -1,15 +1,2 @@
-MoodBook/
- ├── app/
- │   ├── src/
- │   │   ├── main/
- │   │   │   ├── java/com/example/moodbook/
- │   │   │   │   ├── MainActivity.kt
- │   │   │   │   └── data/
- │   │   │   │        ├── Book.kt
- │   │   │   │        ├── BookDao.kt
- │   │   │   │        └── BookDatabase.kt
- │   │   │   ├── res/layout/activity_main.xml
- │   │   │   └── AndroidManifest.xml
- │   ├── build.gradle
- ├── build.gradle
- └── README.md
+
+
